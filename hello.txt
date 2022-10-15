@@ -5,6 +5,8 @@ int main()
 	//changes done in feature branch
 	// tanmay
 	int a,b;
+	int c;
+
 	cout << "Hello world" << endl;
 	
 }
