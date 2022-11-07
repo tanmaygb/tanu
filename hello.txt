@@ -7,6 +7,6 @@ int main()
 	int a,b;
 	int c;
 
-	cout << "Hello world" << endl;
+	cout << "Hello world hi" << endl;
 	
 }
